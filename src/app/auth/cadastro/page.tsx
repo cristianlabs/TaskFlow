@@ -1,0 +1,1 @@
+import {CadastroForm} from "@/components/auth/cadastroform"
